@@ -8,6 +8,7 @@ src:
   font-weight: 400;
   font-display: swap;
   src:
+    url("https://www.epicgolfclub.com/epicgolfclubfont/EGC-SansRegular.ttf") format("truetype");
 ;
 }
 
@@ -17,5 +18,6 @@ src:
   font-weight: 500;
   font-display: swap;
   src:
+    url("https://www.epicgolfclub.com/epicgolfclubfont/EGC-SansRegular.ttf") format("truetype");
 ;
 }
