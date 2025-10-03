@@ -1,0 +1,21 @@
+/* Beefree custom font stylesheet: Epic Golf Club Sans (Regular 400, Medium 500) */
+/* Replace the relative URLs below with your public HTTPS URLs after you upload the files to your CDN. */
+/* Keep this file dedicated to @font-face only. */
+
+@font-face {
+  font-family: "Epic Golf Club Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+;
+}
+
+@font-face {
+  font-family: "Epic Golf Club Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src:
+;
+}
