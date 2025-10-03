@@ -1,7 +1,3 @@
-src:
-  url("https://www.epicgolfclub.com/epicgolfclubfont/EGC-SansRegular.ttf") format("truetype");
-
-
 @font-face {
   font-family: "Epic Golf Club Sans";
   font-style: normal;
@@ -18,6 +14,6 @@ src:
   font-weight: 500;
   font-display: swap;
   src:
-    url("https://www.epicgolfclub.com/epicgolfclubfont/EGC-SansRegular.ttf") format("truetype");
+    url("https://www.epicgolfclub.com/epicgolfclubfont/EGC-SansMedium.ttf") format("truetype");
 ;
 }
